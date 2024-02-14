@@ -1,0 +1,1 @@
+Another easy way ot create text to soeech is usiing `https://play.ht/?ref=alxappliedai.com`
